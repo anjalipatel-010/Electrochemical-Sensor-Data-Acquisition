@@ -28,7 +28,7 @@ The sensor’s analog signals are converted to digital values using Arduino’s 
 
 🎥 **Watch the System in Action**
 
-[![Electrochemical Sensor Output](ELectroDAQ-result.jpg)](media/Electro_DAQ-output.mp4)
+[![Electrochemical Sensor Output](ELectroDAQ-result.jpg)](+++++++++++++++++++++++++++++++++Electro_DAQ-output.mp4)
 
 🧪 Arduino-Based Data Acquisition Circuit for Electrochemical Sensor — Assembly Guide
 
