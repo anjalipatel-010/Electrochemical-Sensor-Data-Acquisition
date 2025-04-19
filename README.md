@@ -35,7 +35,7 @@ This guide outlines the procedure for building an **Arduino-based data acquisiti
 
 - Arduino Uno (or compatible board)
 - Electrochemical three-electrode sensor (Working, Reference, Counter electrodes)
-- Operational Amplifier (Op-Amp) — e.g., TL072 or LM358
+- Operational Amplifier (Op-Amp) — e.g., LM324 or LM358
 - Resistors (as per required feedback and biasing)
 - Capacitors (for noise filtering)
 - Jumper Wires
